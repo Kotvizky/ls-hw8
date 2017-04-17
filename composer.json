@@ -1,0 +1,13 @@
+{
+  "require": {
+    "intervention/image": "^2.3",
+    "illuminate/database": "^5.4",
+    "fzaninotto/faker": "^1.6"
+  },
+  "autoload":{
+    "psr-4":{
+      "HW8\\" : "app/"
+    }
+
+  }
+}
